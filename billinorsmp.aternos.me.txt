@@ -1,0 +1,5 @@
+{
+      "ip":"billinorsmp.aternos.me"
+      "port":"58242"
+      "name":"Payam"
+}
